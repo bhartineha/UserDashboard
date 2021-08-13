@@ -1,0 +1,21 @@
+.circle{
+    float:left;
+    margin: 5px 10px;
+}
+
+.dot {
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    
+  }
+
+  .email-cls{
+      color:cadetblue;
+      text-decoration: none;
+  }
+  .list-group-item{
+    border-top: 1px solid rgba(71, 43, 43, 0.125) !important;
+  }
